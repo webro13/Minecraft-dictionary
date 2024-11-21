@@ -1,0 +1,21 @@
+h1{
+   text-align: center;
+}
+
+*{
+    font-family: sans-serif;
+}
+
+ol{
+    list-style: none;
+}
+
+a{
+    color: black;
+}
+
+img{
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+}
