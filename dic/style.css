@@ -19,3 +19,11 @@ img{
     width: 40px;
     margin-left: 10px;
 }
+
+footer{
+    font-size: 12px;
+}
+
+.no{
+    list-style: decimal;
+}
